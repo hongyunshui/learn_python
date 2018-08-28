@@ -14,5 +14,8 @@ from chapter1.helloword import *
 
 hello_word()
 hello_word1()
-
+learn_var = "abc"
+print(learn_var)
+learn_var = "def"
+print(learn_var)
 

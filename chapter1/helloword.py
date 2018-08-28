@@ -22,3 +22,4 @@ def hello_word1():
 
 # print("hello——word")
 # print("李盼盼萨达")
+print("当前模块测试")
