@@ -14,6 +14,7 @@
 
 def hello_word():
     print("hello word")
+    print("hello World")
 
 
 def hello_word1():
